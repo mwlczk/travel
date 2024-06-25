@@ -1,4 +1,4 @@
-# Packliste
+# Packliste v0.2.0
 
 ## Organisatorisches
 - Ausweis (Personal und DAV)
@@ -11,10 +11,15 @@
 - Sonnencreme
 - Duschgel 
 
-### pers.
+### individuell 
 - Zahnbürste - am besten aus Holz + Schutzkappe
 
 ## Medizin
+### 1x f. alle
+- verbankasten
+- desinfektionsspray
+
+### individuell 
 - Blasenpflaster
 - Magnesium
 - individuell bspw. für Allergien o.a.
