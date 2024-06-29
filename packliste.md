@@ -1,4 +1,4 @@
-# Packliste v0.2.0
+# Packliste v0.2.1
 
 ## Organisatorisches
 - Ausweis (Personal und DAV)
@@ -30,7 +30,7 @@
 - 2x Wanderunterwäsche (am besten aus Merinowolle)
     - Wandersocken (!)
 - Wanderschuhe (leicht und eingelaufen)
-- Hüttenschuhe
+- Hüttenschuhe (auch fürs Bad/Dusche nutzbar)
 - Hüttenhose
 - Lange/Kurze Wanderhose
 - Dünne Regenjacke
@@ -39,6 +39,11 @@
 - Handschuhe
 
 ## Equipment
+### 1x f. alle
+- max. eine Powerbank f. alle
+- Spielkarten (Doppelkopf, stand Land vollpfosten, ...)
+
+### individuell
 - Rucksack bis max 45L
 - Inlay Schlafsack
 - oropax
@@ -46,7 +51,6 @@
 - Gehstöcker
 - Stirnlampe (optional, von Vorteil auf Hütten Nachts mit Rotlicht)
 - kompaktes mehrfach USB-Ladegerät
-- max. eine Powerbank f. alle
 
 ## Snacks (optional)
 - Nüsse
